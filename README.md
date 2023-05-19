@@ -13,6 +13,6 @@ Step 1: First implement login through google using firebase, so that firebase wi
 -- To implement login through google using firebase, follow this video.
 https://youtu.be/8aARNaWR78Q
 
-Step 2: After implementing login through google using firebase, now we can implement Phone number Login. \\n
+Step 2: After implementing login through google using firebase, now we can implement Phone number Login. \n
 -- To implement login through Phone OTP using firebase, follow this video.
 https://youtu.be/ePk0fjrNo6c .
